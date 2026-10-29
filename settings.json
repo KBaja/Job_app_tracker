@@ -1,0 +1,34 @@
+{
+  "job_dir": "",
+  "excel_file": "",
+  "monthly_goal": 10,
+  "appearance": "System",
+  "defaults": {
+    "workload": "100%",
+    "method": "Online",
+    "source": "LinkedIn",
+    "location": "Zurich"
+  },
+  "status_options": [
+    "Applied",
+    "Interview",
+    "Offer",
+    "Rejected",
+    "No response",
+    "Withdrawn"
+  ],
+  "rav_options": [
+    "Pending",
+    "Interview",
+    "Rejected",
+    "Hired"
+  ],
+  "folder_pattern": "{dd}_{mm}_{company}",
+  "templates": [],
+  "followup_days": 14,
+  "sound": true,
+  "sound_file": "assets/celebrate.wav",
+  "sound_interview": "assets/interview.wav",
+  "sound_offer": "assets/offer.wav",
+  "click_sounds": true
+}
